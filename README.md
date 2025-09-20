@@ -9,8 +9,9 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 - Responsive design (mobile & desktop)
 
 ## Live Demo
-👉 https://zainabshahzadidev.github.io/frontend-mentor-1-qr-code-challenge/
+👉 (https://zainabshahzadidev.github.io/frontend-mentor-1-qr-code-challenge/)
 
 ## Screenshot
 ![Preview](images/Preview-screenshot.jpg)
+
 
