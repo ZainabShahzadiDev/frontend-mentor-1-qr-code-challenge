@@ -28,14 +28,14 @@ body {
     object-fit: cover;
 }
 
-.text1 {
+h1 {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     padding: 1rem 1.022rem;
     text-align: center;
 }
 
-.text2 {
+h2 {
     font-weight: 400;
     color: hsl(216, 15%, 48%);
     font-size: 0.8rem;
@@ -49,13 +49,13 @@ body {
         width: 74%;
     }
 
-    .text1 {
+    h1 {
         font-size: 1.1rem;
         padding: 1rem 1.9rem;
 
     }
 
-    .text2 {
+    h2 {
         font-size: 0.9rem;
     }
 }
@@ -65,12 +65,12 @@ body {
         width: 100%;
     }
 
-    .text1 {
+    h1 {
         font-size: 1.4rem;
 
     }
 
-    .text2 {
+    h2 {
         font-size: 1rem;
     }
 }
